@@ -27,4 +27,7 @@ To test this project please make sure you have the required package :
 once all the packages are installed and after unziping the project directory, run jupyter-lab and select the project file
 select the file you want to run and click on the run button
 
+Exercise 1 : lda.ipynb & RegressionLogistique.ipynb
+Exercise 2 : ML2.ipynb
+
 Enjoy classifying :)
